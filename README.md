@@ -33,3 +33,4 @@ is the greatest exponent of modern music.
 
 This is the first EDA project I have done and I'm open to any suggestions or improvements :blush:
 
+![](https://github.com/Dancar96/Best-Musician-Ever-EDA/blob/main/img/Freddie-Mercury-estadio-wembley-londres-1986.webp)
