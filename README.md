@@ -1,5 +1,4 @@
-https://raw.githubusercontent.com/Dancar96/Best-Musician-Ever-EDA/main/MUSIC.avif
-
+https://github.com/Dancar96/Best-Musician-Ever-EDA/blob/main/MUSIC.avif
 
 # <h1 align="center"> :guitar: Who's the greatest musician of all time :guitar:
 
