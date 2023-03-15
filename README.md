@@ -1,3 +1,6 @@
+https://raw.githubusercontent.com/Dancar96/Best-Musician-Ever-EDA/main/MUSIC.avif
+
+
 # <h1 align="center"> :guitar: Who's the greatest musician of all time :guitar:
 
 First EDA trying to discover with data who is the greatests singer or music band of all time by Daniel Carrera
